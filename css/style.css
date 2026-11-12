@@ -13,7 +13,6 @@ align-items: center;
 border-bottom: 3px solid #d40000;
 position: sticky;
 top: 0;
-z-index: 10;
 }
 .logo {
 color: #d40000;
